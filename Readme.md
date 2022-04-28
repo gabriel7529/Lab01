@@ -1,6 +1,10 @@
 # Laboratorio 1
->Git y Github
+>Git y Github  
+
+
 **Alumno:** Gabriel Steven Machicao Quispe  **Grupo:** C
+
+
 **Docente:** Richart Smith Escobedo Quispe
 ## Objetivos
 Aprender a manejar un sistema de control de version de manera colaborativa con varios usuarios.
