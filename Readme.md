@@ -5,6 +5,7 @@ Aprender a manejar un sistema de control de version de manera colaborativa con v
 ## Temas a tratar
 * Git
 * Git-hub
-## Marco Teorico
+## Desarrollo del Laboratorio
+
 
 
